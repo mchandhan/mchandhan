@@ -47,12 +47,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Chandhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mchandhan&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mchandhan&layout=compact&theme=tokyonight)  
-
----
 
 ### 🏗️ Projects I'm Proud Of
 - 🌟 [**AWS EC2 Automation with Ansible**](#) – Automated provisioning and configuration of cloud servers  
