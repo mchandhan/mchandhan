@@ -49,9 +49,9 @@
 
 
 ### 🏗️ Projects I'm Proud Of
-- 🌟 [**AWS EC2 Automation with Ansible**](#) – Automated provisioning and configuration of cloud servers  
-- 💡 [**CI/CD Pipeline Demo**](#) – End-to-end pipeline with GitHub Actions and Docker  
-- 🔗 [**Cloud Cost Optimization Toolkit**](#) – Scripts and workflows to reduce cloud spend  
+- 🌟 [**AWS EC2 Automation with Ansible**]() – Automated provisioning and configuration of cloud servers  
+- 💡 [**CI/CD Pipeline Demo**]() – End-to-end pipeline with GitHub Actions and Docker  
+- 🔗 [**Cloud Cost Optimization Toolkit**]() – Scripts and workflows to reduce cloud spend  
 
 ---
 
