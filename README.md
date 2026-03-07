@@ -1,7 +1,14 @@
 # 👋 Hi there, I'm Chandhan  
 
 🚀 **DevOps & Cloud Engineer | AWS | Azure | Oracle Cloud | Automation Enthusiast**
+---
 
+###  Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandhan-m-931293260/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://mchandhan.github.io/portfolio/portfolio.html)  
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mchandhan17@gmail.com)  
+
+---
 ---
 
 ### 💫 About Me
